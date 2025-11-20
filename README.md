@@ -2,7 +2,7 @@
 
 A powerful, cordless handheld blower designed for workshop and DIY cleaning applications. This project utilizes a 50mm Electric Ducted Fan (EDF) powered by Parkside 20V X20V Power tool batteries, with variable speed control via an ATtiny85 microcontroller.
 
-![Blower Assembly](images/blower-assembly.jpg)
+<img src="images/2025_1120_12585400.jpg" alt="Blower Assembly 1" style="width:200px;"/> <img src="images/2025_1120_12592800.jpg" alt="Blower Assembly 2" style="width:200px;"/> <img src="images/2025_1120_13000900.jpg" alt="Blower Assembly 3" style="width:200px;"/> <img src="images/2025_1120_13004700.jpg" alt="Blower Assembly 4" style="width:200px;"/>
 
 ## 📁 Project Contents
 
@@ -41,9 +41,8 @@ A powerful, cordless handheld blower designed for workshop and DIY cleaning appl
 ## ⚡ Firmware
 
 The ATtiny85 firmware provides:
-- PWM speed control via trigger input
-- Smooth startup sequence
 - ESC control signal generation
+- Adjustable pulse timing for throttle configuration
 
 ### Programming Requirements:
 - PlatformIO (recommended) or Arduino IDE
@@ -52,17 +51,17 @@ The ATtiny85 firmware provides:
 
 ## 🖨️ 3D Printing
 
-- **Filament**: PET-G or ASA recommended
+- **Filament**: PET-G or PLA recommended
 - **Layer Height**: 0.2mm
-- **Infill**: 20%
+- **Infill**: 10%
 - **Supports**: None required
 - **Orientation**: Print as-is
 
 ## 🔗 Related Links
 
 - [Instructables Build Guide](https://www.instructables.com/3D-Printable-EDF-Blower-Fan/)
-- [Thingiverse 3D Model]([Your Thingiverse Link Here])
-- [Project Website](https://sprig-labs.com/)
+- [Thingiverse 3D Model](https://www.thingiverse.com/thing:7206386)
+- [Testing video](https://youtu.be/bUUTJftmKFA)
 
 ## 📄 License
 
@@ -74,4 +73,4 @@ This device uses high-current batteries and produces significant airflow. Always
 
 ---
 
-*Part of the Sprig-Labs open-source hardware ecosystem.*
+*Part of the Sprig-Labs open-source hardware solutions.*
