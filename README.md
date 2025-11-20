@@ -23,12 +23,11 @@ A powerful, cordless handheld blower designed for workshop and DIY cleaning appl
 
 | Component | Quantity | Notes |
 |-----------|----------|-------|
-| 50mm EDF Unit | 1 | Brushless DC motor with fan |
-| 30A BLDC ESC | 1 | Electronic Speed Controller |
-| ATtiny85 | 1 | Microcontroller |
-| LM7805 Voltage Regulator | 1 | 5V regulation |
-| XT60 Connector | 1 | Battery connection |
-| Momentary Switch | 1 | Trigger |
+| [50mm EDF Unit](https://www.aliexpress.com/item/1005006375371395.html?spm=a2g0o.order_list.order_list_main.146.75701802Td0HFp) | 1 | Brushless DC motor with fan |
+| [45A BLDC ESC](https://www.aliexpress.com/item/4000433679071.html?spm=a2g0o.order_list.order_list_main.56.75701802Td0HFp) | 1 | Electronic Speed Controller |
+| [ATtiny85](https://www.microchip.com/en-us/product/attiny85) | 1 | Microcontroller |
+| [LM7805 Voltage Regulator](https://eu.mouser.com/ProductDetail/STMicroelectronics/L7805CV?qs=9NrABl3fj%2FqplZAHiYUxWg%3D%3D&utm_id=6470818026&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=6470818026&gbraid=0AAAAADn_wf1989EGXnXSTC5yUFqAKvHs2&gclid=CjwKCAiAlfvIBhA6EiwAcErpyV3oJkenb3E_x4Bor8f77w4dtCgcRaL83sYl72GSFM-5JMw3Fl3GTRoC9dsQAvD_BwE) | 1 | 5V regulation |
+| [Momentary Switch](https://www.aliexpress.com/item/1005007420837979.html?spm=a2g0o.order_list.order_list_main.136.75701802Td0HFp) | 1 | Trigger |
 
 ## 🔧 Assembly
 
