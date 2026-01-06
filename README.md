@@ -4,14 +4,14 @@ A powerful, cordless handheld blower designed for workshop and DIY cleaning appl
 
 <img src="images/2025_1120_12585400.jpg" alt="Blower Assembly 1" style="width:200px;"/> <img src="images/2025_1120_12592800.jpg" alt="Blower Assembly 2" style="width:200px;"/> <img src="images/2025_1120_13000900.jpg" alt="Blower Assembly 3" style="width:200px;"/> <img src="images/2025_1120_13004700.jpg" alt="Blower Assembly 4" style="width:200px;"/>
 
-## 📁 Project Contents
+## Project Contents
 
 - **`/firmware`** - Complete PlatformIO project for ATtiny85
 - **`/3d_models`** - STL files for 3D printing (main housing prints without supports)
 - **`/docs`** - Bill of Materials (BOM), wiring diagrams, and assembly guide
 - **`/images`** - Project photos and reference images
 
-## 🛠️ Key Features
+## Key Features
 
 - **Powerful Airflow**: 50mm EDF produces significant airflow for its size
 - **Variable Speed Control**: ATtiny85 provides PWM control via trigger
@@ -19,7 +19,7 @@ A powerful, cordless handheld blower designed for workshop and DIY cleaning appl
 - **3D Printable**: Main housing prints in one piece without supports
 - **Open Source**: Fully customizable design and firmware
 
-## 📋 Bill of Materials
+## Bill of Materials
 
 | Component | Quantity | Notes |
 |-----------|----------|-------|
@@ -29,7 +29,7 @@ A powerful, cordless handheld blower designed for workshop and DIY cleaning appl
 | [LM7805 Voltage Regulator](https://eu.mouser.com/ProductDetail/STMicroelectronics/L7805CV?qs=9NrABl3fj%2FqplZAHiYUxWg%3D%3D&utm_id=6470818026&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=6470818026&gbraid=0AAAAADn_wf1989EGXnXSTC5yUFqAKvHs2&gclid=CjwKCAiAlfvIBhA6EiwAcErpyV3oJkenb3E_x4Bor8f77w4dtCgcRaL83sYl72GSFM-5JMw3Fl3GTRoC9dsQAvD_BwE) | 1 | 5V regulation |
 | [Momentary Switch](https://www.aliexpress.com/item/1005007420837979.html?spm=a2g0o.order_list.order_list_main.136.75701802Td0HFp) | 1 | Trigger |
 
-## 🔧 Assembly
+## Assembly
 
 1. **3D Print** the main housing (no supports required)
 2. **Install EDF** using silicone sealant or hot glue
@@ -37,7 +37,7 @@ A powerful, cordless handheld blower designed for workshop and DIY cleaning appl
 4. **Upload firmware** using Arduino as ISP programmer
 5. **Assemble** all components into the housing
 
-## ⚡ Firmware
+## Firmware
 
 The ATtiny85 firmware provides:
 - ESC control signal generation
@@ -48,7 +48,7 @@ The ATtiny85 firmware provides:
 - Arduino Uno (as ISP programmer)
 - ATtiny85 core support
 
-## 🖨️ 3D Printing
+## 3D Printing
 
 - **Filament**: PET-G or PLA recommended
 - **Layer Height**: 0.2mm
@@ -56,13 +56,13 @@ The ATtiny85 firmware provides:
 - **Supports**: None required
 - **Orientation**: Print as-is
 
-## 🔗 Related Links
+## Related Links
 
 - [Instructables Build Guide](https://www.instructables.com/3D-Printable-EDF-Blower-Fan/)
 - [Thingiverse 3D Model](https://www.thingiverse.com/thing:7206386)
 - [Testing video](https://youtu.be/bUUTJftmKFA)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
